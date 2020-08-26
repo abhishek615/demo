@@ -1,3 +1,4 @@
 # this is my git file
 
 this is my first file on git that i created
+this is me editing and adding on to my file 
